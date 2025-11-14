@@ -6,4 +6,13 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pokjm99)](https://solved.ac/pokjm99/)
 
-홍익대학교 컴퓨터공학과 (2019.03 ~ 2025.08)
+🏫 홍익대학교 컴퓨터공학과 (2019.03 ~ 2025.08)
+
+💻 문서 버전 관리 시스템 [Docsa] : BE 담당 (2025.06 ~ 2025.07)
+
+💻 일정관리 커뮤니티 [TodoList Community] : BE 담당 (2025.05 ~ 2025.06)
+
+💻 가치소비 플랫폼 [Morak] : Infra, BE 담당 (2025.04 ~ 2025.05)
+
+💻 대학생들을 위한 공동구매 플랫폼 [한바구니] : BE 담당 (2024.03 ~ 2024.11)
+
